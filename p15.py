@@ -1,0 +1,1 @@
+# ans for n X n grid = C(2n, n)
